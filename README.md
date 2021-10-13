@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @jarmatys
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Jarek!
 
-<!---
-jarmatys/jarmatys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m programing in .NET and JavaScript 
+
+📫 How to reach me:
+- My website: https://armatys.me/
+- LinkedIn: https://www.linkedin.com/in/jarmatys/
+- Facebook: https://www.facebook.com/armatys.me
+- Instagram: https://www.instagram.com/jaroslaw_armatys/
