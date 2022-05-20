@@ -39,8 +39,6 @@ Hi 👋 My name is Jarosław Armatys
 
 <a href="http://www.github.com/jarmatys"><img src="https://github-readme-stats.vercel.app/api?username=jarmatys&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jarmatys's GitHub stats" /></a>
 
-<b>Top Repositories</b>
+<b>Top languages</b>
 
-<div width="100%" align="center"><a href="https://github.com/jarmatys/CMS" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=jarmatys&repo=CMS&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmatys&layout=compact&card_width=495&langs_count=4&hide=CSS)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmatys&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&card_width=495&langs_count=4&hide=CSS)](https://github.com/anuraghazra/github-readme-stats)
