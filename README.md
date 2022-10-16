@@ -1,12 +1,17 @@
-Hi 👋 My name is Jarosław Armatys
+Hi 👋 My name is Jarosław Armatys <div align = 'right'>![](https://komarev.com/ghpvc/?username=m-jovanovic&color=blue)</div>
 =================================
-
 .NET & JS Developer
 -------------------
 
 * 🌍  I'm based in Wrocław
 * 🖥️  See my portfolio at [armatys.me](http://armatys.me)
 * ✉️  You can contact me at [jaroslaw@armatys.me](mailto:jaroslaw@armatys.me)
+
+### Social Media
+
+[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/channel/UCyZl6MYl2Nz85sBUEHMEhbw)
+
+[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/jarmatys)
 
 ### Skills
 
