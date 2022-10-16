@@ -1,4 +1,5 @@
-Hi 👋 My name is Jarosław Armatys <div align='right'>![](https://komarev.com/ghpvc/?username=jarmatys&color=blue)</div>
+Hi 👋 My name is Jarosław Armatys 
+![](https://komarev.com/ghpvc/?username=jarmatys&color=blue)
 =================================
 ### .NET & JS Developer
 
