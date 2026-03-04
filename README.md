@@ -1,49 +1,75 @@
-Hi 👋 My name is Jarosław Armatys 
-![](https://komarev.com/ghpvc/?username=jarmatys&color=blue)
-=================================
-### .NET & JS Developer
+<div align="center">
 
-* 🌍  I'm based in Wrocław
-* 🖥️  See my portfolio at [armatys.me](http://armatys.me)
-* ✉️  You can contact me at [jaroslaw@armatys.me](mailto:jaroslaw@armatys.me)
+<img src="https://armatys.me/nowe_logo_me_obszar_roboczy_1.png" alt="Jarosław Armatys" width="300" />
 
-### Social Media
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0891B2&center=true&vCenter=true&width=650&lines=Building+products+that+matter;.NET+%2F+C%23+%2F+TypeScript+%2F+React;Soltum+%7C+PETSEO+%7C+CABB;YouTuber+-+.NET+na+rekrutacji)](https://git.io/typing-svg)
 
-[![YouTube URL](https://img.shields.io/static/v1?color=red&label=youtube&logo=youtube&logoColor=white&style=for-the-badge&message=Subscribe)](https://www.youtube.com/channel/UCyZl6MYl2Nz85sBUEHMEhbw)
+<br/>
 
-[![LinkedIn URL](https://img.shields.io/static/v1?color=blue&label=linkedin&logo=linkedin&logoColor=white&style=for-the-badge&message=Connect)](https://www.linkedin.com/in/jarmatys)
+[![YouTube](https://img.shields.io/badge/YouTube-.NET_na_rekrutacji-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCyZl6MYl2Nz85sBUEHMEhbw)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jarmatys-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarmatys/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-armatys.me-0891b2?style=for-the-badge&logo=firefox&logoColor=white)](https://armatys.me)
+[![Twitter](https://img.shields.io/badge/Twitter-@ArmatysJaroslaw-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/ArmatysJaroslaw)
+[![GitHub followers](https://img.shields.io/github/followers/jarmatys?style=for-the-badge&logo=github&color=1c1917)](https://github.com/jarmatys)
 
-### Skills
+</div>
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" width="36" height="36" alt="Angular" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
-<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
-<a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
-<a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-</p>
+---
 
+## 👨‍💻 O mnie
 
-### Socials
+Jestem programistą .NET & JS z Wrocławia, który oprócz kodzenia prowadzi kilka firm i tworzy treści techniczne na YouTube. Interesuje mnie wszystko, co łączy inżynierię z realnym biznesem – od architektury systemów po automatyzację procesów.
 
-<p align="left"> <a href="https://www.github.com/jarmatys" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jaroslaw_armatys" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jarmatys/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArmatysJaroslaw" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- 🏢 **Firmy:** Objectivity · British Council · NestBank · Soltum · PETSEO · CABB
+- 📺 **YouTube:** Seria [.NET na rekrutacji](https://www.youtube.com/channel/UCyZl6MYl2Nz85sBUEHMEhbw) – przygotowanie do technicznego rekrutacji w .NET
+- 🌍 **Lokalizacja:** Wrocław, Polska
+- ✉️ **Kontakt:** [jaroslaw@armatys.me](mailto:jaroslaw@armatys.me)
 
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 🛠️ Stack technologiczny
 
-<a href="http://www.github.com/jarmatys"><img src="https://github-readme-stats.vercel.app/api?username=jarmatys&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jarmatys's GitHub stats" /></a>
+### Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<b>Top languages</b>
+### Frontend
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jarmatys&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&layout=compact&card_width=495&langs_count=4&hide=CSS)](https://github.com/anuraghazra/github-readme-stats)
+### DevOps & Narzędzia
+![VPS](https://img.shields.io/badge/VPS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=jarmatys&theme=dark&background=1c1917&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" />
+&nbsp;&nbsp;
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarmatys&theme=nord_dark" alt="Profile Details" />
+
+</div>
+
+---
+
+---
+
+<div align="center">
+
+![Profile views](https://komarev.com/ghpvc/?username=jarmatys&color=0891b2&style=flat-square)
+
+</div>
