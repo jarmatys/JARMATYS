@@ -16,18 +16,18 @@
 
 ---
 
-## 👨‍💻 O mnie
+## 👨‍💻 About Me
+I’m a .NET & JS developer from Wrocław who, besides coding, runs several companies and creates tech content on YouTube.  
+I’m interested in everything that connects engineering and real business — from system architecture to process automation.
 
-Jestem programistą .NET & JS z Wrocławia, który oprócz kodzenia prowadzi kilka firm i tworzy treści techniczne na YouTube. Interesuje mnie wszystko, co łączy inżynierię z realnym biznesem – od architektury systemów po automatyzację procesów.
-
-- 🏢 **Firmy:** Objectivity · British Council · NestBank · Soltum · PETSEO · CABB
-- 📺 **YouTube:** Seria [.NET na rekrutacji](https://www.youtube.com/channel/UCyZl6MYl2Nz85sBUEHMEhbw) – przygotowanie do technicznego rekrutacji w .NET
-- 🌍 **Lokalizacja:** Wrocław, Polska
-- ✉️ **Kontakt:** [jaroslaw@armatys.me](mailto:jaroslaw@armatys.me)
+- 🏢 **Companies:** Objectivity · British Council · NestBank · Soltum · PETSEO · CABB  
+- 📺 **YouTube:** Series [.NET Interview Series](https://www.youtube.com/channel/UCyZl6MYl2Nz85sBUEHMEhbw) – preparation for technical .NET interviews  
+- 🌍 **Location:** Wrocław, Poland  
+- ✉️ **Contact:** [jaroslaw@armatys.me](mailto:jaroslaw@armatys.me)
 
 ---
 
-## 🛠️ Stack technologiczny
+## 🛠️ Tech Stack
 
 ### Backend
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -63,8 +63,6 @@ Jestem programistą .NET & JS z Wrocławia, który oprócz kodzenia prowadzi kil
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jarmatys&theme=nord_dark" alt="Profile Details" />
 
 </div>
-
----
 
 ---
 
